@@ -75,8 +75,8 @@ Django-based social media web application
 
 ## 📫 Connect With Me
 
-- 📧 Email: your_email@gmail.com  
-- 💼 LinkedIn: (add when ready)
+- 📧 Email: moneshwarr66@gmail.com  
+- 💼 LinkedIn: Moneshwar R
 
 ---
 
