@@ -1,18 +1,57 @@
-# Hi 👋 I'm Moneshwar
+<h1 align="center">Hi 👋, I'm Moneshwar</h1>
+<h3 align="center">B.Tech IT Student | DSA • C++ • Django • ML</h3>
 
-🎓 B.Tech Information Technology Student  
-💻 DSA | C++ | Django | Machine Learning  
-🚀 Building meaningful projects while strengthening fundamentals
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=DSA+Focused+Learner;Backend+Developer+with+Django;Machine+Learning+Beginner;Consistent+Problem+Solver&center=true&width=500&height=45">
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎯 Strong focus on **Data Structures & Algorithms**
-- 🧠 Learning **Machine Learning fundamentals** step by step
+- 🧠 Learning **Machine Learning fundamentals**
 - 🌐 Building backend-focused projects using **Django**
-- 📘 Believe in deeply understanding the **why, how, and what** behind code
+- 📘 Believe in understanding the **why, how, and what**
 - 🔁 Consistent learner with long-term growth mindset
+
+---
+
+## 🧠 DSA Progress
+
+- 📅 Solving problems **consistently**
+- 🧩 Comfortable with:
+  - Arrays & Strings
+  - Recursion & Backtracking
+  - Sorting & Searching
+  - Hashing
+  - Stack & Queue
+  - Trees & Graphs (theory + intuition)
+- 🔍 Currently improving:
+  - Dynamic Programming
+  - Problem-solving speed
+- 💡 Focus: **logic first, code second**
+
+---
+
+## 🏆 Contest & Coding Profiles
+
+### 🟠 LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/Moneshwar-R?theme=light&font=Karma)
+
+🔗 https://leetcode.com/Moneshwar-R
+
+---
+
+### 🟡 CodeChef
+<p align="center">
+  <img src="https://img.shields.io/badge/CodeChef-Active%20Participant-brown?style=for-the-badge">
+</p>
+
+- ⭐ Regular practice & contests  
+- 🎯 Focus on implementation + logic clarity  
+
+🔗 https://www.codechef.com/users/Moneshwar_R
 
 ---
 
@@ -26,7 +65,7 @@
 - Django
 - HTML, CSS
 
-### 📚 Core Computer Science
+### 📚 Core CS
 - Data Structures & Algorithms
 - Object-Oriented Programming (OOP)
 
@@ -42,34 +81,44 @@
 
 ### 🔹 MakeIT.ai (In Progress)
 AI-powered document rewriting tool  
-- Upload PDF / DOCX / TXT files  
-- Prompt-based content rewriting  
-- Download rewritten documents in Word / PDF format  
+- Upload PDF / DOCX / TXT  
+- Prompt-based rewriting  
+- Download in Word / PDF  
 
-**Tech Used:** Django, Python, LLM APIs
+**Tech:** Django, Python, LLM APIs
 
 ---
 
 ### 🔹 Social Book
-Django-based social media web application  
-- User authentication & profiles  
-- Posts, likes, followers system  
-- Clean backend logic and database design  
+Django-based social media web app  
+- Authentication & profiles  
+- Posts, likes, followers  
+- Clean backend architecture  
 
-**Tech Used:** Django, SQLite, HTML, CSS
+**Tech:** Django, SQLite, HTML, CSS
 
 ---
 
 ### 🔹 Machine Learning Projects
-- 🏠 House Price Prediction using Regression
-- 🧬 Medical Diagnosis using Logistic Regression
-- 📊 Exploratory Data Analysis with Pandas & Matplotlib
+- 🏠 House Price Prediction  
+- 🧬 Medical Diagnosis (Logistic Regression)  
+- 📊 EDA with Pandas & Matplotlib  
 
 ---
 
 ## 📈 GitHub Stats
 
-![Moneshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moneshwar-R&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moneshwar-R&show_icons=true&theme=default" />
+</p>
+
+---
+
+## ⚡ Fun Visuals
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+</p>
 
 ---
 
