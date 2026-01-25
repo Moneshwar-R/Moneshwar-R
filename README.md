@@ -24,7 +24,6 @@ const monesh = {
     education: "B.Tech in Information Technology",
     currentlyLearning: ["System Design", "Advanced DSA", "AI/ML Models"],
     workingOn: "Full Stack Web Applications & AI Projects",
-    goals2025: ["Master System Design", "Contribute to Open Source", "Build Production-Ready Apps"],
     funFact: "I debug with console.log and I'm not ashamed 😎"
 };
 ```
