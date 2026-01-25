@@ -1,93 +1,175 @@
-# Hi, I'm Moneshwar 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student;DSA+%7C+Backend+%7C+Full-Stack;Competitive+Prgorammer;Consistent+Problem+Solver" alt="Typing SVG" />
-</p>
+# 👨‍💻 Moneshwar R
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Competitive+Programmer;B.Tech+IT+Student)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+### 🚀 Building the future, one commit at a time
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moneshwar-r-a3962329b)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/moneshwar_r/)
+[![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/mon_eshwar_r_5)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Moneshwar.R)
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
-
-I'm a **B.Tech Information Technology student** focused on building strong fundamentals in **Data Structures & Algorithms** and **Backend/Full-Stack Development**. I believe in learning through consistent practice and building real-world projects.
-
-- 🔍 Strengthening problem-solving skills through **DSA using C++**
-- 🛠️ Building backend and full-stack applications with modern frameworks
-- 📊 Regular competitive programming practice
-- 🎯 Currently seeking **internship opportunities**
-- 💡 Always learning, always improving
+## 🎯 Current Focus
+```javascript
+const monesh = {
+    location: "India 🇮🇳",
+    education: "B.Tech in Information Technology",
+    currentlyLearning: ["System Design", "Advanced DSA", "AI/ML Models"],
+    workingOn: "Full Stack Web Applications & AI Projects",
+    goals2025: ["Master System Design", "Contribute to Open Source", "Build Production-Ready Apps"],
+    funFact: "I debug with console.log and I'm not ashamed 😎"
+};
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
+
+<div align="center">
 
 ### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### Backend & Full-Stack
+### Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Machine Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Tools & Others
+### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+</div>
 
 ---
 
-## 💼 Projects
+## 📊 GitHub Analytics
 
-### 📱 Social Book
-Full-stack social media website built with **Django**
-- User authentication and profile management
-- Post creation with likes and comments
-- Follow/unfollow functionality
-- Clean and responsive UI
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moneshwar-R&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moneshwar-R&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-### 🏢 CRM System
-Customer Relationship Management application using **MERN Stack**
-- MongoDB for database management
-- Express.js and Node.js backend
-- React frontend with modern UI/UX
-- Complete CRUD operations for customer data
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moneshwar-R&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
-### 📋 Complaint Management and Resolution Tracking System
-Enterprise-level complaint tracking system using **Java Spring Boot + Thymeleaf**
-- Spring Boot backend architecture
-- Thymeleaf server-side templating
-- User role management (Admin/User)
-- Complaint status tracking and resolution workflow
-- MySQL database integration
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moneshwar-R&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
 
 ---
 
+## 🏆 DSA Journey
+
+<div align="center">
+
+### Competitive Programming Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/moneshwar_r?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/u/moneshwar_r/)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### Problem Solving Consistency
+
+**🎯 Focus Areas:** Dynamic Programming • Graph Algorithms • Tree Traversals • System Design
+
+**📈 Growth:** Consistent daily practice across multiple platforms
+
+**🔥 Streak:** Building muscle memory, one problem at a time
+
+</div>
+
 ---
 
-## 📫 Let's Connect
+## 🚀 Featured Projects
 
-- 📧 Email: [moneshwarr66@gmail.com](moneshwarr66@gmail.com)
-- 💼 LinkedIn: [Moneshwar R](www.linkedin.com/in/moneshwar-r-a3962329b)
+<div align="center">
+
+<a href="https://github.com/Moneshwar-R">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Moneshwar-R&repo=your-project-1&theme=tokyonight" />
+</a>
+<a href="https://github.com/Moneshwar-R">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Moneshwar-R&repo=your-project-2&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Moneshwar-R">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Moneshwar-R&repo=your-project-3&theme=tokyonight" />
+</a>
+<a href="https://github.com/Moneshwar-R">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Moneshwar-R&repo=your-project-4&theme=tokyonight" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Open to internship opportunities and collaborative projects</i>
-</p>
+## 💡 Developer Wisdom
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Moneshwar-R&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
+<div align="center">
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║  "First, solve the problem. Then, write the code."       ║
+║                                    - John Johnson         ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moneshwar-r-a3962329b)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moneshwar-R)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/moneshwar_r/)
+
+### 📧 Open for collaborations, internships, and interesting projects!
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Graph
+
+![Snake animation](https://raw.githubusercontent.com/Moneshwar-R/Moneshwar-R/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+### ⚡ Fun Fact: This README was crafted with ❤️ and ☕
+
+![Profile Views](https://komarev.com/ghpvc/?username=Moneshwar-R&color=blueviolet&style=for-the-badge)
+
+**💙 Thanks for stopping by! Happy Coding! 🚀**
+
+</div>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Built+with+passion+by+Monesh+Warar;Always+learning%2C+always+growing+%F0%9F%8C%B1;Let's+build+something+amazing+together!)](https://git.io/typing-svg)
+
+</div>
