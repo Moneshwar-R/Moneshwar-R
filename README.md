@@ -85,39 +85,11 @@ const monesh = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-### Problem Solving Consistency
-
-**🎯 Focus Areas:** Dynamic Programming • Graph Algorithms • Tree Traversals • System Design
-
-**📈 Growth:** Consistent daily practice across multiple platforms
-
-**🔥 Streak:** Building muscle memory, one problem at a time
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Moneshwar-R">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Moneshwar-R&repo=your-project-1&theme=tokyonight" />
-</a>
-<a href="https://github.com/Moneshwar-R">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Moneshwar-R&repo=your-project-2&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Moneshwar-R">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Moneshwar-R&repo=your-project-3&theme=tokyonight" />
-</a>
-<a href="https://github.com/Moneshwar-R">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Moneshwar-R&repo=your-project-4&theme=tokyonight" />
-</a>
-
-</div>
-
----
 
 ## 💡 Developer Wisdom
 
@@ -151,9 +123,13 @@ const monesh = {
 
 <div align="center">
 
-### 🐍 Contribution Graph
+### 🐍 Contribution Activity
 
-![Snake animation](https://raw.githubusercontent.com/Moneshwar-R/Moneshwar-R/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
