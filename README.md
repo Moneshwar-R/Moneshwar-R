@@ -128,6 +128,6 @@ const monesh = {
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Built+with+passion+by+Monesh+Warar;Always+learning%2C+always+growing+%F0%9F%8C%B1;Let's+build+something+amazing+together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Built+with+passion+by+Moneshwar;Always+learning%2C+always+growing+%F0%9F%8C%B1;Let's+build+something+amazing+together!)](https://git.io/typing-svg)
 
 </div>
