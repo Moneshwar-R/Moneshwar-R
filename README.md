@@ -91,22 +91,6 @@ const monesh = {
 ---
 
 
-## 💡 Developer Wisdom
-
-<div align="center">
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║  "First, solve the problem. Then, write the code."       ║
-║                                    - John Johnson         ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
